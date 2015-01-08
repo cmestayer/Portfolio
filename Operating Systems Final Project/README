@@ -1,0 +1,166 @@
+Cassie Mestayer
+Synchronization at San Diego Zoo
+Written in C
+
+TO Build: make
+TO Run: make run
+
+DATA file is called data.txt
+To Change go to line 95.
+
+Fuel Truck fills up after every 3 pumps used.
+To Change go to line 440.
+
+~~~~~~Sample Output with sample data~~~~~~~~~
+
+NEW Zoo Round
+
+
+Visitors: 35, Cars: 6, Pumps: 2, Time: 5
+
+
+Visior 1 is on car 1
+34 customers waiting for a ride.
+Visior 2 is on car 2
+33 customers waiting for a ride.
+Visior 3 is on car 3
+32 customers waiting for a ride.
+Visior 4 is on car 4
+31 customers waiting for a ride.
+Visior 5 is on car 5
+30 customers waiting for a ride.
+Visior 6 is on car 6
+29 customers waiting for a ride.
+Visior 7 is on car 5
+28 customers waiting for a ride.
+Visior 8 is on car 1
+27 customers waiting for a ride.
+Visior 9 is on car 2
+26 customers waiting for a ride.
+Visior 10 is on car 3
+25 customers waiting for a ride.
+Visior 11 is on car 4
+24 customers waiting for a ride.
+Visior 12 is on car 6
+23 customers waiting for a ride.
+Visior 13 is on car 1
+22 customers waiting for a ride.
+Visior 14 is on car 2
+21 customers waiting for a ride.
+Visior 15 is on car 3
+20 customers waiting for a ride.
+Visior 16 is on car 4
+19 customers waiting for a ride.
+Visior 17 is on car 5
+18 customers waiting for a ride.
+Visior 18 is on car 6
+17 customers waiting for a ride.
+Visior 19 is on car 1
+16 customers waiting for a ride.
+Visior 20 is on car 2
+15 customers waiting for a ride.
+Visior 21 is on car 3
+14 customers waiting for a ride.
+Visior 22 is on car 1
+13 customers waiting for a ride.
+Visior 23 is on car 2
+12 customers waiting for a ride.
+Visior 24 is on car 4
+11 customers waiting for a ride.
+Visior 25 is on car 5
+10 customers waiting for a ride.
+Visior 26 is on car 6
+9 customers waiting for a ride.
+0 cars are waiting for pumps
+1 cars are waiting for pumps
+Visior 27 is on car 4
+8 customers waiting for a ride.
+Visior 28 is on car 3
+7 customers waiting for a ride.
+Visior 29 is on car 5
+6 customers waiting for a ride.
+Visior 30 is on car 6
+5 customers waiting for a ride.
+2 cars are waiting for pumps
+3 cars are waiting for pumps
+4 cars are waiting for pumps
+5 cars are waiting for pumps
+6 cars are waiting for pumps
+Car 2 is on pump 2
+5 cars are waiting for pumps
+Car 1 is on pump 1
+4 cars are waiting for pumps
+Car 6 is on pump 2
+3 cars are waiting for pumps
+Car 3 is on pump 1
+2 cars are waiting for pumps
+Car 4 is on pump 2
+1 cars are waiting for pumps
+Car 5 is on pump 1
+Fuel truck has been called
+Fuel Truck is filling up station.
+Visior 31 is on car 3
+4 customers waiting for a ride.
+Visior 32 is on car 1
+3 customers waiting for a ride.
+Visior 33 is on car 2
+2 customers waiting for a ride.
+Visior 34 is on car 4
+1 customers waiting for a ride.
+Visior 35 is on car 5
+0 customers waiting for a ride.
+
+
+
+
+NEW Zoo Round
+
+
+Visitors: 19, Cars: 4, Pumps: 3, Time: 10
+
+
+Visior 1 is on car 1
+18 customers waiting for a ride.
+Visior 2 is on car 2
+17 customers waiting for a ride.
+Visior 3 is on car 3
+16 customers waiting for a ride.
+Visior 4 is on car 4
+15 customers waiting for a ride.
+Visior 5 is on car 1
+14 customers waiting for a ride.
+Visior 6 is on car 2
+13 customers waiting for a ride.
+Visior 7 is on car 3
+12 customers waiting for a ride.
+Visior 8 is on car 4
+11 customers waiting for a ride.
+Visior 9 is on car 3
+10 customers waiting for a ride.
+Visior 10 is on car 1
+9 customers waiting for a ride.
+Visior 11 is on car 2
+8 customers waiting for a ride.
+Visior 12 is on car 1
+7 customers waiting for a ride.
+Visior 13 is on car 3
+6 customers waiting for a ride.
+Visior 14 is on car 4
+5 customers waiting for a ride.
+Visior 15 is on car 4
+4 customers waiting for a ride.
+Visior 16 is on car 1
+3 customers waiting for a ride.
+Visior 17 is on car 2
+2 customers waiting for a ride.
+Visior 18 is on car 3
+1 customers waiting for a ride.
+0 cars are waiting for pumps
+1 cars are waiting for pumps
+2 cars are waiting for pumps
+Car 3 is on pump 2
+1 cars are waiting for pumps
+Car 1 is on pump 3
+Visior 19 is on car 2
+0 customers waiting for a ride.
+
