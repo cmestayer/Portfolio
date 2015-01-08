@@ -14,3 +14,7 @@ Contains:
 	+ Design Document
 	+ Poster - Example
 	+ Use Cases, System Sequence, and Interaction Diagrams
+- Operating Systems Final Project:
+	+ Written in C
+	+ uses pthreads
+	+ Includes Makefile and a Readme
